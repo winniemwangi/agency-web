@@ -24,6 +24,10 @@ body
 li
 {
     margin-left: 5%;
+}
+#home
+{
+    color: #43A091;
 } 
 #abu
 {
@@ -104,19 +108,20 @@ li
 {
     margin-left: 15%;
     margin-top: 5%;
+    display: flex;
 }
-tr , th
+.box1
 {
-    padding-right: 140px;
-    border: 1px solid #F9F6F7;
-    font-size: 18px;
-    color: #000000;
-    margin-top: 15%; 
-    margin-left: -40%;        
+    border: 1px solid #FBF7F6;
+    width: 27%;
 }
-table
+.box1 h1
 {
-  border-collapse: collapse;
+    margin-left: 5%;
+}
+.box1 p
+{
+    margin-left: 5%;
 }
 .socialmedia
 {
@@ -175,7 +180,7 @@ table
 .boxes
 {
     display: flex;
-    margin-left: 15%;
+    margin-left: 10%;
 }
 .design
 {
@@ -191,6 +196,7 @@ table
 {
     background-color: #F5F9FA;
     padding: 3%;
+    width: 23%;
 }
 .projects
 {
@@ -304,7 +310,7 @@ img
     /* margin-left: 10%; */
     margin-top: -2%;
     background-color: #F3F3F3;
-    height: 120vh;
+    height: 110vh;
 }
 .headd 
 {
