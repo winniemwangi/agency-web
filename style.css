@@ -18,12 +18,17 @@ body
     list-style: none;
     margin-top: -3.5%;
     margin-left: 30%;
+    font-size: 20px;
 }
 
 li
 {
     margin-left: 5%;
 } 
+#abu
+{
+    color: #43A091;
+}
 .btn
 {
     margin-left: 25%;
@@ -147,7 +152,7 @@ table
 }
 .header-1 h6
 {
-    font-size: 15px;
+    font-size: 25px;
     margin-top: -2%;
     margin-left: 5%;
 }
@@ -299,6 +304,7 @@ img
     /* margin-left: 10%; */
     margin-top: -2%;
     background-color: #F3F3F3;
+    height: 120vh;
 }
 .headd 
 {
@@ -340,9 +346,18 @@ img
 }
 .sendy
 {
-    margin-top: 1%;
+    margin-top: 8%;
     padding: 1%;
     border-radius: 50px;
     margin-left: 1%;
     background-color: #43A091;
+}
+.last
+{
+    margin-top: -45%;
+}
+.yellowsplash
+{
+    margin-left: 60%;
+    margin-top: 5%;
 }
